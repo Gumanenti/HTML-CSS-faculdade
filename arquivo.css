@@ -1,0 +1,89 @@
+.letraCabeçalho{
+    color:rgb(26, 112, 26);
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.estatistica{
+    color:green;
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.letrasFormulario{
+    color:green;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.letrasCabeçalhoFormulario{
+    color:green;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.letrasParagrafo{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.classificação{
+    color:rgb(81, 190, 81);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sub{
+    text-align: center;
+}
+
+#areaFormulario{
+    width: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid rgb(60, 180, 60)
+}
+
+#areaBotao{
+    width: 100px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid rgb(60, 180, 60)
+}
+
+#areaSelect{
+    width: 130px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid rgb(60, 180, 60)
+}
+
+
+td, th{
+    text-align: center;
+    width: 110px;
+    vertical-align: middle;
+}
+
+th{
+    background-color: rgb(133, 216, 133);
+}
+
+i{
+    font-size: 10px;
+}
+
